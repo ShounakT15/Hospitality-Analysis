@@ -16,7 +16,7 @@ As a data analyst, I was provided with sample data and a mock-up dashboard to wo
 
 ## Check Out the Live Dashboard
 
-Explore the interactive dashboard to delve deeper into the revenue insights of Hotel chain business:
+Explore the interactive dashboard to delve deeper into the revenue insights of the Hotel chain business:
 
 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDE4Njc5YjctY2Q5OS00ZGJkLTlmZTEtYWY4ODYyNDIxNmRkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
